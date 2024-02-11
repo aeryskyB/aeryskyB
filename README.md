@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Deep learning
 - 🌱 I’m currently learning NLP and OS
-- 📫 How to reach me: <a href="mailto:thunderburning987@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="Aery__1" height="30" width="30"/></a> <a href="https://twitter.com/Aery___1" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Aery__1" height="30" width="30"/></a>
+- 📫 How to reach me:
+  - <a href="mailto:thunderburning987@gmail.com" target="blank"><img width="20" height="20" alt="thunderB" src="https://github.com/aeryskyB/aeryskyB/assets/79935164/ce265aa8-5216-4c53-8d15-9a008a530c38">
+  - </a><a href="https://twitter.com/Aery___1" target="blank"><img width="20" height="20" alt="Aery__1" src="https://github.com/aeryskyB/aeryskyB/assets/79935164/50d7161e-49c0-4bc7-a954-cd75357efd8f"></a>
 
