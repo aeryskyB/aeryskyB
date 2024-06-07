@@ -1,18 +1,10 @@
 ### Hi there 👋
-Hope you're doing great!
-<!--
-**aeryskyB/aeryskyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-<!-- 
-- 👯 I’m looking to collaborate on Open source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-- 🔭 I’m currently working on Deep learning
-- 🌱 I’m currently learning NLP and OS
-- 📫 How to reach me:
-  - <a href="mailto:thunderburning987@gmail.com" target="blank"><img width="20" height="20" alt="thunderB" src="https://github.com/aeryskyB/aeryskyB/assets/79935164/ce265aa8-5216-4c53-8d15-9a008a530c38">
-  - </a><a href="https://twitter.com/Aery___1" target="blank"><img width="20" height="20" alt="Aery__1" src="https://github.com/aeryskyB/aeryskyB/assets/79935164/50d7161e-49c0-4bc7-a954-cd75357efd8f"></a>
+# Meh!
 
+- 🔭 I’m currently working on Deep learning, and developing stuff
+- 🌱 I’m currently learning NLP, OS
+
+```math
+\ce{$\unicode[goombafont; position: fixed; z-index: 1000; top: 0; left: 0; height: 100%; background: url('https://github.com/cloud11665/cloud11665/assets/karisu_glass.gif');]{x0000}$}
+```
