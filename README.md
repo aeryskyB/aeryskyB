@@ -1,11 +1,11 @@
 ## 👋 Heya  
 
-![skill issue](https://github.com/aeryskyB/aeryskyB/blob/main/karisu_glass.gif?raw=true')
+<p align="center"><img src="karisu_glass.gif"/></p>
 
-
-- 🔭 Working on Deep learning, and developing stuff
-- 🌱 Learning NLP, OS, hardware, designing
-
-Drop me a DM on 𝕏/twitter, or email me if you want to talk!
-
+<p align="center">Developing stuff in the face of all the hardship - fascinates me.<br>
+I believe in effort, probability, and hitting up on entropy.<br><br>
+Yes, I'm an <a href="https://aynrand.org/ideas/overview/">objectivist</a>.<br><br>
+DM me on 𝕏/twitter!<br>
+My email is mostly chaos, but you're welcome!<br><br>
 Let's meet at the event horizon!
+</P>
