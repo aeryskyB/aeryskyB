@@ -1,6 +1,6 @@
 ## 👋 Heya  
 
-<p align="center"><img src="karisu_glass.gif"/></p>
+<p align="center"><img src="kurisu_glass.gif"/></p>
 
 <p align="center">Developing stuff in the face of all the hardship - fascinates me.<br>
 I believe in effort, probability, and hitting up on entropy.<br><br>
